@@ -1,3 +1,3 @@
 import qrcode
-qr = qrcode.make("https://instagram.com")
+qr=qrcode.make("https://instagram.com")
 qr.save("instagram.png")
